@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
+
+.handjet-font {
+    font-family: "Handjet", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "ELGR" 1,
+      "ELSH" 2;
+  }
+h1{
+    font-size: 5rem;
+    text-align: center;
+    color: #DBEDF3;
+    text-shadow: 3px 0 #da0463;
+}
+body{
+    background-color: #283149;
+    text-align: center;
+}
+.set{
+    margin: 10% auto;
+}
+button{
+    outline: none;
+    color: #da0463;
+    border:10px solid #da0463;
+    border-radius: 30px;
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    font-weight: 800;
+    font-size: 5rem;
+    text-shadow: 3px 0 #283149;
+    text-align: center;
+}
+footer{
+    color: #DBEDF3;
+    font-size: 20px;
+}
+.w{
+    background-image: url("../images/tom1.png");
+}
+.a{
+    background-image: url("../images/tom2.png");
+}
+.s{
+    background-image: url("../images/tom3.png");
+}
+.d{
+    background-image: url("../images/tom4.png");
+}
+.j{
+    background-image: url("../images/snare.png");
+}
+.k{
+    background-image: url("../images/crash.png");
+}
+.l{
+    background-image: url("../images/kick.png");
+}
